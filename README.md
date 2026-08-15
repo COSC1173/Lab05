@@ -112,8 +112,7 @@ int sum = 0;
 ## Compile, Run, and Test
 
 ```bash
-bash tools/run_lab.sh lab05          # 13 official checks
-python3 tools/comment_check.py labs/lab05
+
 ```
 
 ---
