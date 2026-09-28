@@ -148,12 +148,11 @@ Average: 9.00
 
 ## Submission Checklist
 
-- [ ] `bash tools/run_lab.sh lab05` reports 13 of 13.
 - [ ] Entering `-1` immediately prints `Count: 0` and `Average: N/A`, not `NaN`.
 - [ ] The table row is on a single line.
 
 ```bash
-git add . && git commit -m "Lab 05 complete - all 13 checks passing" && git push
+
 ```
 
 ---
